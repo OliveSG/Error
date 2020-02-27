@@ -1,0 +1,21 @@
+{
+  "name": "HTML",
+  "homepage": "https://github.com/OliveSG/Criando-um-site-responsivo-do-come-o-ao-fim",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Ingrid Gomes <ingridolivesg@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
